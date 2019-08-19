@@ -1,0 +1,1 @@
+放到 /resources/views/admin/web-uploader.blade.php下

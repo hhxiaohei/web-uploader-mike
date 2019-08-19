@@ -1,0 +1,5 @@
+改
+1./app/Admin/bootstrap.php
+加
+1.
+/app/Admin/Extensions/WebUpload.php
